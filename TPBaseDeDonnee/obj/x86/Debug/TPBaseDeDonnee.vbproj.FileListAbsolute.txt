@@ -1,0 +1,16 @@
+C:\Users\User\Documents\Visual Studio 2008\Projects\TPBaseDeDonnee\TPBaseDeDonnee\bin\x86\Debug\TPBaseDeDonnee.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\TPBaseDeDonnee\TPBaseDeDonnee\bin\x86\Debug\TPBaseDeDonnee.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\TPBaseDeDonnee\TPBaseDeDonnee\bin\x86\Debug\TPBaseDeDonnee.xml
+C:\Users\User\Documents\Visual Studio 2008\Projects\TPBaseDeDonnee\TPBaseDeDonnee\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\TPBaseDeDonnee\TPBaseDeDonnee\obj\x86\Debug\TPBaseDeDonnee.Form1.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\TPBaseDeDonnee\TPBaseDeDonnee\obj\x86\Debug\TPBaseDeDonnee.Resources.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\TPBaseDeDonnee\TPBaseDeDonnee\obj\x86\Debug\TPBaseDeDonnee.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2008\Projects\TPBaseDeDonnee\TPBaseDeDonnee\obj\x86\Debug\TPBaseDeDonnee.exe
+C:\Users\User\Documents\Visual Studio 2008\Projects\TPBaseDeDonnee\TPBaseDeDonnee\obj\x86\Debug\TPBaseDeDonnee.xml
+C:\Users\User\Documents\Visual Studio 2008\Projects\TPBaseDeDonnee\TPBaseDeDonnee\obj\x86\Debug\TPBaseDeDonnee.pdb
+C:\Users\User\Documents\Visual Studio 2008\Projects\TPBaseDeDonnee\TPBaseDeDonnee\obj\x86\Debug\TPBaseDeDonnee.Form2.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\TPBaseDeDonnee\TPBaseDeDonnee\obj\x86\Debug\TPBaseDeDonnee.AboutBox1.resources
+C:\Users\User\Documents\Visual Studio 2008\Projects\TPBaseDeDonnee\TPBaseDeDonnee\obj\x86\Debug\TPBaseDeDonnee.Form3.resources
+E:\archive\My Tools\My Tools\TPBaseDeDonnee\TPBaseDeDonnee\obj\x86\Debug\TPBaseDeDonnee.exe
+E:\archive\My Tools\My Tools\TPBaseDeDonnee\TPBaseDeDonnee\obj\x86\Debug\TPBaseDeDonnee.xml
+E:\archive\My Tools\My Tools\TPBaseDeDonnee\TPBaseDeDonnee\obj\x86\Debug\TPBaseDeDonnee.pdb
